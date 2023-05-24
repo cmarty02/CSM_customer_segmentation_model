@@ -1,4 +1,4 @@
-# Customer Segmentation for Cross-selling Opportunities
+# Customer Segmentation Model
 
 ## Project Description
 The study of segmentation focuses on applying segmentation techniques to analyze customer purchase patterns and identify cross-selling opportunities. In this project, we collected information about the types of oil products sold by customers and their weekly purchase quantities and other relevant details. With this information, we created detailed customer profiles and identified common patterns in their buying behavior.
